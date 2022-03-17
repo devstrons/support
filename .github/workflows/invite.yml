@@ -1,0 +1,38 @@
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  automate_invite:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Invite on label
+        uses: vj-abigo/invite-on-label@v1.2
+        with:
+          organization: devstrons
+          label: invite me to the organization
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          comment: |
+            '
+
+            ![](https://github.com/devstrons/artwork/blob/master/Stock%20assets/Logo/horizontal-with-devstrons.png)
+
+            Hey there! 👋
+
+            Thanks for requesting an invite! Welcome to DEVSTRONS' 🎉
+            Before going ahead, I would want you to complete the below To-Do list.
+
+            ## Your To-Do List ✔️
+
+            - Accept the invitation sent to you via mail.
+            - Change the appearance of this organization to "Public" from the people list [here](https://github.com/orgs/devstrons/people/).
+            - Join our Discord Server [here](https://dsc.gg/devstrons).
+
+            - Accept the Rules from `#📕│rules` channel.
+            - Introduce yourself to our community in `🤗│introductions` channel.
+            - Feel free to share your excitement on socials with `#devstrons`. You can also tag us using `@devstrons`.
+
+            Looking forward to interacting with you in our community! Welcome once again! 🤓
+'
+        env:
+          INVITE_TOKEN: ${{ secrets.INVITE_TOKEN }}
