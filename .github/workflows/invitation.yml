@@ -14,7 +14,7 @@ jobs:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           comment: |
             
-            ![devstrons](https://github.com/devstrons/artwork/blob/master/Stock%20assets/Logo/horizontal-with-devstrons.png)
+            ![devstrons](https://raw.githubusercontent.com/devstrons/artwork/master/Stock%20assets/Logo/horizontal-with-devstrons.png)
 
             Hey there! 👋
 
