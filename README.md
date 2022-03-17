@@ -3,9 +3,15 @@
 </p>
 <div align="center">
 </br>
-<a href="https://github.com/devstrons"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
-&nbsp; &nbsp; &nbsp;
-<a href="https://github.com/devstrons/support/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?v=103"></a>
+<a href="https://github.com/devstrons">
+    <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
+</a>
+<a href="https://github.com/devstrons/support/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?v=103">
+</a>
+<a href="https://discord.gg/MVujzTBqed" alt="DEVSTRONS' Discord">
+    <img src="https://img.shields.io/discord/857641826953854987?color=blue&label=DEVSTRONS'&logo=discord" />
+</a>
 </br>
 </br>
 <p align="center">
