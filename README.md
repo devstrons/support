@@ -21,6 +21,8 @@
 <b>Join:</b>
 
 Raise an issue to be a part of our inclusive & diverse community!
+</br>
+Follow the [guide](https://github.com/devstrons/support/blob/main/CONTRIBUTING.md) to make a valid issue.
 
 </br>
 
