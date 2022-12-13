@@ -1,5 +1,5 @@
 <p align="center">
-    <img width= 150rem style="margin: 0 0 0 0px" src="https://raw.githubusercontent.com/devstrons/artwork/master/Stock%20assets/Logo/Transparent%20logo%20with%20shadow.png" alt="karoverify"/>
+    <img width= 150rem style="margin: 0 0 0 0px" src="https://raw.githubusercontent.com/devstrons/artwork/master/Stock%20assets/Logo/Transparent%20logo%20with%20shadow.png" alt="devstrons logo"/>
 </p>
 <div align="center">
 </br>
