@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 200 100" width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 210 120" width="210" height="120" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
@@ -9,7 +9,6 @@
                     background: linear-gradient(314.66deg, #338EDA 13.96%, #5CC1DE 85.11%);
                     border-radius: 16px;
                     color: #fff;
-                    padding: 10px;
                 }
             </style>
             <div class="container">

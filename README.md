@@ -7,7 +7,7 @@
         <div>
             <img src="https://raw.githubusercontent.com/devstrons/artwork/master/Stock%20assets/GIF/Waving-Devstrons-GIF.gif" width="8%" />
             <a href="https://zaap.bio/devstrons">
-                <img src="wave-box.svg" width="200" height="100" alt="Click to see the source">
+                <img src="wave-box.svg" width="210" height="120" alt="Click to see the source">
             </a>
             <img src="https://raw.githubusercontent.com/devstrons/artwork/master/Stock%20assets/GIF/Waving-Devstrons-GIF.gif" width="8%" />
         </div>
