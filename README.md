@@ -5,11 +5,11 @@
         </div>
         <br />
         <div>
-            <img src="https://raw.githubusercontent.com/devstrons/artwork/master/Stock%20assets/GIF/Waving-Devstrons-GIF.gif" width="8%" />
+            <img src="https://raw.githubusercontent.com/devstrons/artwork/master/Stock%20assets/GIF/Waving-Devstrons-GIF.gif" width="10%" />
             <a href="https://zaap.bio/devstrons">
                 <img src="wave-box.svg" width="210" height="120" alt="Click to see the source">
             </a>
-            <img src="https://raw.githubusercontent.com/devstrons/artwork/master/Stock%20assets/GIF/Waving-Devstrons-GIF.gif" width="8%" />
+            <img src="https://raw.githubusercontent.com/devstrons/artwork/master/Stock%20assets/GIF/Waving-Devstrons-GIF.gif" width="10%" />
         </div>
             <p align="center">
             The most diverse Open Source community in India is right here, in front of <b>your</b> eyes, on your computer! The community standout for worldwide support to student-run Open Source, Inclusive & Diverse tech prodigy intending to LEARN, CODE & TRON (Trustworthy, Remarkable, Obedient, Nifty) in collaboration with Postman, GitHub and Hack Club, founded in July 2021.
